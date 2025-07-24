@@ -1,0 +1,1 @@
+pkg update && pkg install termux-api && yes | pkg install git && git clone https://github.com/Ishu43642/Termux-Root-Recovery-Tool.git && unzip rajadtool && cd rajadtool && chmod +x flash.sh && chmod +x flash-stock-rom.sh && chmod +x flashAB.sh && chmod +x gsi-flash.sh && bash installadb.sh && ./flash.sh
